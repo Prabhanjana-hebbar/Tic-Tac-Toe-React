@@ -15,6 +15,10 @@ try the following commands<br>
 
 
 ##Take a look at my game UI
-<img src="Screenshot 2025-02-27 200001](https://github.com/user-attachments/assets/0f389ff3-4a79-4ffa-91e8-1d581044fb81"/>
+<img src="https://github.com/user-attachments/assets/0f389ff3-4a79-4ffa-91e8-1d581044fb81"/>
+
+<br>
+<br>
+<img src="https://github.com/user-attachments/assets/659aa394-8ccb-49a6-9402-bf19679bd31a"/>
 
 
