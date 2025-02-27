@@ -15,6 +15,6 @@ try the following commands<br>
 
 
 ##Take a look at my game UI
-<img src=""C:\Users\Prabhanjan M P\OneDrive\Pictures\Screenshots\Screenshot 2025-02-27 200001.png"/>
+<img src="Screenshot 2025-02-27 200001](https://github.com/user-attachments/assets/0f389ff3-4a79-4ffa-91e8-1d581044fb81"/>
 
 
