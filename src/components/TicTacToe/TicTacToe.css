@@ -1,0 +1,70 @@
+body{
+    margin: 1.5rem 1.5rem 1.8rem 1.5rem;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/020/149/620/original/pastel-color-background-in-abstract-design-free-vector.jpg);
+    
+}
+.title{
+    font-size: 50px;
+    margin-top: 50px;
+    color: rgb(77, 208, 231);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px 15px 20px 15px;
+    text-align: center;
+}
+
+.board{
+    height: 450px;
+    width: 450px;
+    display: flex;
+    margin: auto;
+}
+
+.reset{
+    height: 70px;
+    width: 140px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background-color: rgb(37, 150, 176);
+    font-size: 28px;
+    color: white;
+    margin-bottom: 1.5rem;
+}
+
+.reset:hover{
+    height: 74px;
+    width: 145px;  
+}
+
+.box{
+    height: 120px;
+    width: 120px;
+    margin: 0.5rem;;
+    background: rgb(57, 93, 93);
+    border: 4px solid #687f8a;
+    display: flex;
+    border-radius: 12px ;
+    cursor: pointer;
+    
+}
+
+.box:hover{
+    background: rgb(75, 153, 170);
+    border: 4px solid #687f8a;
+      
+}
+
+.box img{
+    height: 90px;
+    width: 90px;
+    margin: auto;
+}
+
