@@ -8,4 +8,9 @@ Created using
 
 to run this locally
 try the following commands
-#git clone 
+#git clone https://github.com/Prabhanjana-hebbar/Tic-Tac-Toe-React.git <br>
+#cd TicTacToe<br>
+#npm install<br>
+#npm run dev<br>
+
+
