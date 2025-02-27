@@ -6,11 +6,15 @@ it is a basic yet creative webpage that can be used to cure your boredom
 Created using 
 ## npm create vite@latest
 
-to run this locally
-try the following commands
+to run this locally on your machine
+try the following commands<br>
 #git clone https://github.com/Prabhanjana-hebbar/Tic-Tac-Toe-React.git <br>
 #cd TicTacToe<br>
 #npm install<br>
 #npm run dev<br>
+
+
+##Take a look at my game UI
+<img src=""C:\Users\Prabhanjan M P\OneDrive\Pictures\Screenshots\Screenshot 2025-02-27 200001.png"/>
 
 
